@@ -9,7 +9,7 @@ X-PUBLISHED-TTL:PT4H
 REFRESH-INTERVAL;VALUE=DURATION:PT4H
 BEGIN:VEVENT
 UID:03a8fdcb3f055e094aadf0f355927c5b299de702@ciac-live-calendar
-DTSTAMP:20260902T192509Z
+DTSTAMP:20260902T224201Z
 DTSTART;TZID=America/New_York:20260908T160000
 DTEND;TZID=America/New_York:20260908T180000
 SUMMARY:Trumbull Boys Soccer vs Westhill (Home)
@@ -19,7 +19,7 @@ URL:https://ciac.fpsports.org/DashboardTeamSchedule.aspx?SportGenderListID=7&Sta
 END:VEVENT
 BEGIN:VEVENT
 UID:8bd2ba5e0e0712cf701b9f8d6de4bfcfa2617622@ciac-live-calendar
-DTSTAMP:20260902T192509Z
+DTSTAMP:20260902T224201Z
 DTSTART;TZID=America/New_York:20260910T160000
 DTEND;TZID=America/New_York:20260910T180000
 SUMMARY:Trumbull Boys Soccer vs Danbury (Away)
@@ -29,7 +29,7 @@ URL:https://ciac.fpsports.org/DashboardTeamSchedule.aspx?SportGenderListID=7&Sta
 END:VEVENT
 BEGIN:VEVENT
 UID:6426ccd447a6a1859a1e95ae1ff32df6e3a75f86@ciac-live-calendar
-DTSTAMP:20260902T192509Z
+DTSTAMP:20260902T224201Z
 DTSTART;TZID=America/New_York:20260915T160000
 DTEND;TZID=America/New_York:20260915T180000
 SUMMARY:Trumbull Boys Soccer vs Fairfield Ludlowe (Away)
@@ -39,7 +39,7 @@ URL:https://ciac.fpsports.org/DashboardTeamSchedule.aspx?SportGenderListID=7&Sta
 END:VEVENT
 BEGIN:VEVENT
 UID:4773d92a41250902b5e24f852db1b71495c81f90@ciac-live-calendar
-DTSTAMP:20260902T192509Z
+DTSTAMP:20260902T224201Z
 DTSTART;TZID=America/New_York:20260918T160000
 DTEND;TZID=America/New_York:20260918T180000
 SUMMARY:Trumbull Boys Soccer vs Staples (Home)
@@ -49,7 +49,7 @@ URL:https://ciac.fpsports.org/DashboardTeamSchedule.aspx?SportGenderListID=7&Sta
 END:VEVENT
 BEGIN:VEVENT
 UID:938884cded8726d800c09c3ca994ec2167639824@ciac-live-calendar
-DTSTAMP:20260902T192509Z
+DTSTAMP:20260902T224201Z
 DTSTART;TZID=America/New_York:20260924T160000
 DTEND;TZID=America/New_York:20260924T180000
 SUMMARY:Trumbull Boys Soccer vs Ridgefield (Home)
@@ -59,7 +59,7 @@ URL:https://ciac.fpsports.org/DashboardTeamSchedule.aspx?SportGenderListID=7&Sta
 END:VEVENT
 BEGIN:VEVENT
 UID:78d380a223e7f4864f9607723d070f0b6906e4ce@ciac-live-calendar
-DTSTAMP:20260902T192509Z
+DTSTAMP:20260902T224201Z
 DTSTART;TZID=America/New_York:20260926T100000
 DTEND;TZID=America/New_York:20260926T120000
 SUMMARY:Trumbull Boys Soccer vs Stamford (Away)
@@ -69,7 +69,7 @@ URL:https://ciac.fpsports.org/DashboardTeamSchedule.aspx?SportGenderListID=7&Sta
 END:VEVENT
 BEGIN:VEVENT
 UID:ba628ffe5f729c7dfc72fd3fa5b8783f1ef550e2@ciac-live-calendar
-DTSTAMP:20260902T192509Z
+DTSTAMP:20260902T224201Z
 DTSTART;TZID=America/New_York:20260929T160000
 DTEND;TZID=America/New_York:20260929T180000
 SUMMARY:Trumbull Boys Soccer vs Brien McMahon (Home)
@@ -79,7 +79,7 @@ URL:https://ciac.fpsports.org/DashboardTeamSchedule.aspx?SportGenderListID=7&Sta
 END:VEVENT
 BEGIN:VEVENT
 UID:eda5da91543ce97c0c358805a93fd4556fa5d081@ciac-live-calendar
-DTSTAMP:20260902T192509Z
+DTSTAMP:20260902T224201Z
 DTSTART;TZID=America/New_York:20261001T160000
 DTEND;TZID=America/New_York:20261001T180000
 SUMMARY:Trumbull Boys Soccer vs New Canaan (Away)
@@ -89,7 +89,7 @@ URL:https://ciac.fpsports.org/DashboardTeamSchedule.aspx?SportGenderListID=7&Sta
 END:VEVENT
 BEGIN:VEVENT
 UID:2f48cb65e65dd4aad414f01a6c59ecfba7a50848@ciac-live-calendar
-DTSTAMP:20260902T192509Z
+DTSTAMP:20260902T224201Z
 DTSTART;TZID=America/New_York:20261005T163000
 DTEND;TZID=America/New_York:20261005T183000
 SUMMARY:Trumbull Boys Soccer vs Wilton (Away)
@@ -99,7 +99,7 @@ URL:https://ciac.fpsports.org/DashboardTeamSchedule.aspx?SportGenderListID=7&Sta
 END:VEVENT
 BEGIN:VEVENT
 UID:4055c732c21dfa1b372fa7ecfb43bbe4519c57ba@ciac-live-calendar
-DTSTAMP:20260902T192509Z
+DTSTAMP:20260902T224201Z
 DTSTART;TZID=America/New_York:20261008T160000
 DTEND;TZID=America/New_York:20261008T180000
 SUMMARY:Trumbull Boys Soccer vs Darien (Home)
@@ -109,7 +109,7 @@ URL:https://ciac.fpsports.org/DashboardTeamSchedule.aspx?SportGenderListID=7&Sta
 END:VEVENT
 BEGIN:VEVENT
 UID:9ca6342f57bee51a99b20dd3626b10e8405f7025@ciac-live-calendar
-DTSTAMP:20260902T192509Z
+DTSTAMP:20260902T224201Z
 DTSTART;TZID=America/New_York:20261010T163000
 DTEND;TZID=America/New_York:20261010T183000
 SUMMARY:Trumbull Boys Soccer vs Norwalk (Away)
@@ -119,7 +119,7 @@ URL:https://ciac.fpsports.org/DashboardTeamSchedule.aspx?SportGenderListID=7&Sta
 END:VEVENT
 BEGIN:VEVENT
 UID:676c5197d19921ebc3791fa23d922ea5c0c3e2e4@ciac-live-calendar
-DTSTAMP:20260902T192509Z
+DTSTAMP:20260902T224201Z
 DTSTART;TZID=America/New_York:20261016T160000
 DTEND;TZID=America/New_York:20261016T180000
 SUMMARY:Trumbull Boys Soccer vs Fairfield Warde (Home)
@@ -129,7 +129,7 @@ URL:https://ciac.fpsports.org/DashboardTeamSchedule.aspx?SportGenderListID=7&Sta
 END:VEVENT
 BEGIN:VEVENT
 UID:d9ea5132e4efe0338fe8a311c1ffca5ccde8ce58@ciac-live-calendar
-DTSTAMP:20260902T192509Z
+DTSTAMP:20260902T224201Z
 DTSTART;TZID=America/New_York:20261020T160000
 DTEND;TZID=America/New_York:20261020T180000
 SUMMARY:Trumbull Boys Soccer vs Greenwich (Home)
